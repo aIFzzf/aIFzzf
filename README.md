@@ -14,7 +14,7 @@ hi, i'm [Neo Zheng](https://neozheng.cn/), a technical artist in Tencent Games.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/aIFzzf/aIFzzf/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/aIFzzf/aIFzzf/blob/main/code.gif?raw=true" width="500" height="320" />
   
 
 **languages and tools:**  
