@@ -38,5 +38,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 📈 my github stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aIFzzf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=aIFzzf" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIFzzf&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
 
