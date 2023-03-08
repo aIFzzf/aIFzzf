@@ -15,4 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://aifzzf.github.io/atom.xml
-          douban_name: your douban username
+          
