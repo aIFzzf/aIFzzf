@@ -15,7 +15,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
   <img align="right" alt="GIF" src="https://github.com/aIFzzf/aIFzzf/blob/main/code.gif?raw=true" width="500" height="320" />
-  
+
 
 **languages and tools:**  
 
@@ -41,9 +41,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-📊 **this week i spent my time on:**
+
 
 <!--START_SECTION:waka-->
+
+📊 **this week i spent my time on:**
 
 ```text
 C++                    2 hrs 52 mins   █████████████████▒░░░░░░░   69.84 %
