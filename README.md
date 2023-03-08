@@ -24,7 +24,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=aIFzzf" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aIFzzf&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats-mu-puce.vercel.app/api?username=aIFzzf" /><span>  </span><img height="170px" src="https://github-readme-stats-mu-puce.vercel.app/api/top-langs/?username=aIFzzf&layout=compact&langs_count=8" />
 <span>  </span>
 </div>
 
