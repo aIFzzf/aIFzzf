@@ -20,6 +20,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ![](https://img.shields.io/badge/C++-Code-blue.svg?style=flat&logo=c%2B%2B)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Code-html-informational?style=flat&logo=HTML&logoColor=white&color=orange)
+<br />
+![](https://img.shields.io/badge/maya-informational?style=flat&logo=maya&logoColor=white&color=lightgreen)
+![](https://img.shields.io/badge/3dsmax-informational?style=flat&logo=3dsmax&logoColor=white&color=green)
+![](https://img.shields.io/badge/photoshop-informational?style=flat&logo=photoshop&logoColor=white&color=blue)
+![](https://img.shields.io/badge/unreal-informational?style=flat&logo=unreal&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/unity-informational?style=flat&logo=unity&logoColor=white&color=lightgray)
+
 
 **📈 my github stats**
 
