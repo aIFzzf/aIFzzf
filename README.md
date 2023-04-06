@@ -45,12 +45,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-C++              11 hrs 27 mins  ████████████████████▒░░░░   81.86 %
-C                1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-C#               31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-uplugin          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-uproject         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C++              7 hrs 3 mins    ████████████████████▒░░░░   80.71 %
+C                1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+C#               13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+uplugin          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+GitIgnore file   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+HLSL             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
