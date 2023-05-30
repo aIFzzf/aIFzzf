@@ -45,10 +45,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-C++       1 hr 19 mins    ███████████████████░░░░░░   76.44 %
-C         24 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-uplugin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-C#        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+C++       45 mins         ████████████████████████▒   97.08 %
+C         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+uplugin   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C#        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
