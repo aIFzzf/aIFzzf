@@ -45,10 +45,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C++              20 hrs 54 mins  ████████████████████▓░░░░   82.17 %
-Python           2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-C                1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+C++              20 hrs 12 mins  ███████████████████▓░░░░░   79.15 %
+C                2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Python           2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 uplugin          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
