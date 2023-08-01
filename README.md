@@ -1,8 +1,6 @@
 ### hey there *👋*
 
-<a href="https://twitter.com/NeoZheng2336">
-  <img align="left" alt="Neo Zheng | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+
 
 ![](https://komarev.com/ghpvc/?username=aIFzzf&color=blue)
 
