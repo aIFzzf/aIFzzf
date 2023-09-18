@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C++                    6 hrs 15 mins   █████████████░░░░░░░░░░░░   52.29 %
-C                      2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
-Objective-C            1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Other                  53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Assembly               52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+C++                    6 hrs 38 mins   ███████████████▓░░░░░░░░░   62.59 %
+C                      1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+Objective-C            56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Other                  53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Assembly               41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
