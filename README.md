@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C++                    5 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.18 %
-Python                 1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Assembly               1 hr 28 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-C                      1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-ActionScript           1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+C++                    4 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.07 %
+Python                 2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Assembly               1 hr 9 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+C#                     52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+C                      46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
