@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-Python           8 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.03 %
-C                2 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-ActionScript 3   2 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-Ezhil            46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-uproject         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Python           8 hrs 22 mins   ███████████▒░░░░░░░░░░░░░   45.30 %
+C                3 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.19 %
+ActionScript 3   3 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+Ezhil            46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+C#               37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
