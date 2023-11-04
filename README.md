@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C++                    3 hrs 14 mins   █████████████▓░░░░░░░░░░░   55.07 %
-C                      1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-INI                    21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Python                 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-MsBuild targets file   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+C++                    3 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.88 %
+C                      1 hr 39 mins    ███████░░░░░░░░░░░░░░░░░░   27.96 %
+INI                    21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Python                 19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+MsBuild targets file   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
