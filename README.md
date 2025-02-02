@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-ShaderLab   2 hrs 4 mins    ███████████▓░░░░░░░░░░░░░   46.47 %
-C++         1 hr 15 mins    ███████░░░░░░░░░░░░░░░░░░   28.01 %
-HLSL        35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-Other       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-C#          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+ShaderLab   1 hr 48 mins    ███████████▓░░░░░░░░░░░░░   47.19 %
+C++         55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+HLSL        32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Other       28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+C#          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
