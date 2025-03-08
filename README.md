@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C#          6 hrs 51 mins   ██████████████████████▓░░   90.01 %
-Markdown    35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Python      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Other       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-HLSL        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+C#         2 hrs 25 mins   ███████████████████▒░░░░░   76.69 %
+Markdown   33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Python     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+HLSL       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
