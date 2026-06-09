@@ -43,11 +43,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```txt
-C#              3 hrs 35 mins         █████████▓░░░░░░░░░░░░░░░   38.58 %
-ShaderLab       2 hrs                 █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-HLSL            1 hr 42 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
-Unity3D Asset   1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-GLSL            48 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+C#              3 hrs 8 mins          ███████████░░░░░░░░░░░░░░   44.17 %
+HLSL            1 hr 36 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+Unity3D Asset   1 hr 2 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+GLSL            44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+ShaderLab       24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
